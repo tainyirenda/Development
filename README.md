@@ -2,7 +2,7 @@
 <h1 align="center"> HTML and CSS Projects</h1>
 <h3 align="center">Hi 👋, I'm Tai</h3>
 
-<h3 align="left"> 🌱 Come and see what I've been creating in web development using HTML and CSS with 100 Days of Code Bootcamp</h3>
+<h4 align="left"> 🌱 Come and see what I've been creating in web development using HTML and CSS with 100 Days of Code Bootcamp</h4>
 <p align="left">
 </p>
 
